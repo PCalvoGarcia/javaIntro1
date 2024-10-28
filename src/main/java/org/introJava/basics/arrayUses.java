@@ -1,4 +1,4 @@
-package org.introJava;
+package org.introJava.basics;
 
 public class arrayUses {
     public static void main(String[] args) {
