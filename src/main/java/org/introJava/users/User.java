@@ -9,7 +9,13 @@ public class User {
         this.surname = surname;
     };
 
-    public void printFullName (){
-        System.out.println(name + " " + surname);
-    };
-}
+//    public void printFullName (){
+//        System.out.println(name + " " + surname);
+//    };
+    
+    public String fullName (){
+        return name + " " + surname;
+    }
+
+
+};
